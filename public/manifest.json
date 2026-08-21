@@ -1,0 +1,17 @@
+{
+  "name": "THEOS — Gestión Ganadera",
+  "short_name": "THEOS",
+  "description": "Sistema de gestión ganadera 100% offline: animales, potreros, reproducción, salud, finanzas y nómina.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F0E8",
+  "theme_color": "#E28C12",
+  "lang": "es",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
